@@ -1,2 +1,2 @@
-* Testes solicitados para o cargo de estagiário.
-* O primeiro foi feito em JavaScript e o segundo em TypeScript.
+- Testes solicitados para o cargo de estagiário.
+- O primeiro e o terceiro foram feitos em JavaScript e o segundo em TypeScript.
